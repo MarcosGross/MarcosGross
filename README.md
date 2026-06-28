@@ -1,64 +1,90 @@
-<h1 align="center">Olá, eu sou Marcos Grosse 👋</h1>
+<!-- Banner -->
+
+<p align="center">
+<img src="./banner.png" alt="Banner"/>
+</p>
+
+<h1 align="center">
+Olá 👋 Eu sou Marcos Grosse
+</h1>
 
 <h3 align="center">
-Machine Learning Engineer • AI Engineer • Infrastructure & Cloud
+Building AI Solutions • Machine Learning • Cloud & Infrastructure
 </h3>
 
 <p align="center">
-Apaixonado por Inteligência Artificial, Machine Learning, Cloud Computing e Automação Inteligente.
+
+Transformando problemas complexos em soluções inteligentes utilizando Inteligência Artificial, Machine Learning, Cloud Computing e Automação.
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MarcosGross&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨🏻‍💻 Sobre mim
 
-🎓 Engenheiro de Computação
+Sou Engenheiro de Computação e atualmente atuo como **Analista de Tecnologia da Informação na Ferroport**, com experiência em infraestrutura corporativa, cloud, virtualização, redes e segurança.
 
-🎓 Pós-Tech em Machine Learning Engineering - FIAP
+Atualmente estou me especializando em **Machine Learning Engineering**, direcionando minha carreira para o desenvolvimento de soluções baseadas em Inteligência Artificial.
 
-💼 Analista de Tecnologia da Informação na Ferroport
-
-☁️ Experiência em Infraestrutura, Cloud, Virtualização, Redes e Segurança
-
-🤖 Em transição para Engenharia de Inteligência Artificial e Machine Learning
-
-🚀 Desenvolvendo soluções utilizando Large Language Models (LLMs), Agentes de IA, Machine Learning e Automação Inteligente.
+Tenho grande interesse em construir aplicações inteligentes utilizando Large Language Models (LLMs), AI Agents, Machine Learning, Cloud e Automação Inteligente.
 
 ---
 
-## 🚀 Atualmente estudando
+# 💡 Atualmente construindo
 
-- Machine Learning Engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
+🤖 AI Agents
+
+🧠 Aplicações com LLMs
+
+☁️ Soluções utilizando Azure AI
+
+⚡ Automações Inteligentes com Python e n8n
+
+📈 Projetos de Machine Learning
+
+🔍 Aplicações com RAG
+
+🚀 APIs para IA
+
+---
+
+# 🚀 Atualmente estudando
+
+- Machine Learning Engineering (FIAP)
 - Azure AI
 - Azure AI Foundry
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
 - LangChain
 - LangGraph
 - Semantic Kernel
 - MCP (Model Context Protocol)
 - Prompt Engineering
-- Python para IA
+- MLOps
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
-</p>
-
-### Inteligência Artificial
+## 🤖 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
 </p>
 
-- OpenAI API
+**Frameworks e Ferramentas**
+
 - Azure OpenAI
+- OpenAI API
 - LangChain
 - LangGraph
 - Scikit-Learn
@@ -67,15 +93,27 @@ Apaixonado por Inteligência Artificial, Machine Learning, Cloud Computing e Aut
 
 ---
 
-### Cloud & DevOps
+## 💻 Desenvolvimento
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash" />
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+
 </p>
 
 ---
 
-### Infraestrutura
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash"/>
+
+</p>
+
+---
+
+## 🖥 Infrastructure
 
 - Windows Server
 - Linux
@@ -84,43 +122,76 @@ Apaixonado por Inteligência Artificial, Machine Learning, Cloud Computing e Aut
 - Hyper-V
 - Redes
 - Segurança
+- Microsoft 365
+- Azure
 - Zabbix
 - Grafana
 
 ---
 
-## 🎯 Objetivos para 2026
+# 📌 Áreas de Interesse
 
-- ✔ Tornar-me Machine Learning Engineer
-- ✔ Especializar-me em Engenharia de IA
-- ✔ Desenvolver aplicações utilizando AI Agents
-- ✔ Criar soluções com LLMs em produção
-- ✔ Obter certificações Microsoft Azure AI
-- ✔ Compartilhar conhecimento através de projetos Open Source
+- Machine Learning Engineering
 
----
+- AI Engineering
 
-## 🚀 Projetos em Destaque
+- Large Language Models
 
-🔹 Sistemas Web
+- AI Agents
 
-🔹 Machine Learning
+- Intelligent Automation
 
-🔹 Large Language Models
+- MLOps
 
-🔹 AI Agents
+- Cloud AI
 
-🔹 Computer Vision
+- Prompt Engineering
 
-🔹 APIs em Python
+- Retrieval-Augmented Generation
 
-🔹 Automações Inteligentes
-
-🔹 Cloud Computing
+- AI Architecture
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 Roadmap de Certificações
+
+| Status | Certificação |
+|---------|--------------|
+| 🟢 | AZ-900 |
+| 🟢 | AI-900 |
+| 🟢 | AI-102 |
+| 🟢 | AI-3016 |
+| 🟢 | AI-3025 |
+| 🟢 | DP-100 |
+| ⚪ | Azure AI Engineer Associate |
+
+---
+
+# 🚀 Projetos em Destaque
+
+Em breve este espaço será preenchido com projetos voltados para Inteligência Artificial e Machine Learning.
+
+### Projetos planejados
+
+🤖 AI Agents
+
+🧠 Chatbots com LLM
+
+📄 RAG Applications
+
+📈 Machine Learning
+
+👁 Computer Vision
+
+⚙ APIs Inteligentes
+
+☁ Azure AI
+
+📊 Dashboards Inteligentes
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -132,7 +203,7 @@ Apaixonado por Inteligência Artificial, Machine Learning, Cloud Computing e Aut
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -142,46 +213,54 @@ Apaixonado por Inteligência Artificial, Machine Learning, Cloud Computing e Aut
 
 ---
 
-## 📚 Certificações em andamento
+# 📈 Contribution Graph
 
-🟢 AZ-900
+<p align="center">
 
-🟢 AI-900
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosGross&theme=tokyo-night&hide_border=true"/>
 
-🟢 AI-102
-
-🟢 AI-3016
-
-🟢 AI-3025
-
-🟢 DP-100
+</p>
 
 ---
 
-## 🤝 Vamos conectar?
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MarcosGross&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🤝 Vamos conectar?
 
 <p>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:SEUEMAIL">
+
 <img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
+# 💭 Filosofia
+
+> **"Building intelligent systems that solve real-world problems."**
+
+---
+
 <p align="center">
 
-> "Technology is best when it empowers people."
-
-</p>
-
-<p align="center">
-
-⭐ Always Learning • 🤖 Always Building • 🚀 Always Innovating
+🚀 Learn • 🤖 Build • 📈 Improve
 
 </p>
