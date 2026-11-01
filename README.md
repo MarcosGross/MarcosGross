@@ -1,266 +1,55 @@
-<!-- Banner -->
-
 <p align="center">
-<img src="./banner.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/MarcosGross/MarcosGross/main/banner.png" alt="Marcos Grosse — AI Engineer" width="100%"/>
 </p>
 
-<h1 align="center">
-Olá 👋 Eu sou Marcos Grosse
-</h1>
+## Marcos Grosse Moraes
 
-<h3 align="center">
-Building AI Solutions • Machine Learning • Cloud & Infrastructure
-</h3>
+**AI Engineer** · Generative & Agentic AI on Azure · LLMs · RAG · MLOps/LLMOps · Python · FastAPI
+<sub>Background em Cloud & Infraestrutura</sub>
 
-<p align="center">
-
-Transformando problemas complexos em soluções inteligentes utilizando Inteligência Artificial, Machine Learning, Cloud Computing e Automação.
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MarcosGross&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 👨🏻‍💻 Sobre mim
-
-Sou Engenheiro de Computação e atualmente atuo como **Analista de Tecnologia da Informação na Ferroport**, com experiência em infraestrutura corporativa, cloud, virtualização, redes e segurança.
-
-Atualmente estou me especializando em **Machine Learning Engineering**, direcionando minha carreira para o desenvolvimento de soluções baseadas em Inteligência Artificial.
-
-Tenho grande interesse em construir aplicações inteligentes utilizando Large Language Models (LLMs), AI Agents, Machine Learning, Cloud e Automação Inteligente.
-
----
-
-# 💡 Atualmente construindo
-
-🤖 AI Agents
-
-🧠 Aplicações com LLMs
-
-☁️ Soluções utilizando Azure AI
-
-⚡ Automações Inteligentes com Python e n8n
-
-📈 Projetos de Machine Learning
-
-🔍 Aplicações com RAG
-
-🚀 APIs para IA
-
----
-
-# 🚀 Atualmente estudando
-
-- Machine Learning Engineering (FIAP)
-- Azure AI
-- Azure AI Foundry
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- Semantic Kernel
-- MCP (Model Context Protocol)
-- Prompt Engineering
-- MLOps
-
----
-
-# 🛠 Tech Stack
-
-## 🤖 AI & Machine Learning
+Construo agentes de IA, APIs de Machine Learning e automações que rodam em produção — não só em notebook.
+Hoje atuo como Analista de Infraestrutura na **Ferroport (Porto do Açu)** e faço pós em **Machine Learning Engineering na FIAP**.
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
-
-**Frameworks e Ferramentas**
-
-- Azure OpenAI
-- OpenAI API
-- LangChain
-- LangGraph
-- Scikit-Learn
-- Pandas
-- NumPy
-
----
-
-## 💻 Desenvolvimento
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
-
+  <a href="https://www.linkedin.com/in/marcos-gross/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:marcosgrossmoraes@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
+### 🚀 Projetos
 
-<p>
+**[AI Career Match Agent](https://github.com/MarcosGross/ai-career-match-agent)** — RAG para match entre currículos e vagas
+- Busca vetorial com **pgvector** (cosseno, IVFFlat) + rerank por LLM vaga a vaga → score híbrido (semântico 0,4 + LLM 0,6)
+- Gera gaps, pontos fortes, otimização de CV para ATS e plano de desenvolvimento
+- `FastAPI` · `PostgreSQL 16 + pgvector` · `OpenAI` · `React + Vite` · `n8n` · `Docker Compose`
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash"/>
+**[Churn Prediction API](https://github.com/MarcosGross/tc-f1-churn-prediction-api)** — Tech Challenge FIAP (em grupo)
+- Comparação de Regressão Logística, Random Forest, MLP e KNN no Telco Churn (7k registros) — campeão: LogReg, **ROC-AUC 0,84**
+- Model Card com auditoria de viés, validação cruzada, testes e container
+- `Scikit-Learn` · `FastAPI` · `pytest` · `ruff` · `Docker`
 
-</p>
+**Clivox** — SaaS de agente de IA no WhatsApp para clínicas *(código privado)*
+- Agendamento e atendimento automatizado para clínicas médicas, odontológicas e veterinárias
 
----
-
-## 🖥 Infrastructure
-
-- Windows Server
-- Linux
-- Active Directory
-- VMware
-- Hyper-V
-- Redes
-- Segurança
-- Microsoft 365
-- Azure
-- Zabbix
-- Grafana
+**MIND / Eloá** — Portal de autoatendimento de TI com assistente virtual de IA *(projeto interno, Ferroport)*
+- Idealizado e desenvolvido por mim, lançado para toda a empresa
 
 ---
 
-# 📌 Áreas de Interesse
+### 🛠 Stack
 
-- Machine Learning Engineering
-
-- AI Engineering
-
-- Large Language Models
-
-- AI Agents
-
-- Intelligent Automation
-
-- MLOps
-
-- Cloud AI
-
-- Prompt Engineering
-
-- Retrieval-Augmented Generation
-
-- AI Architecture
+**IA & ML:** Python · Scikit-Learn · Pandas · OpenAI / Azure OpenAI · LangChain · LangGraph · RAG · pgvector
+**Backend & Automação:** FastAPI · PostgreSQL · n8n · Docker
+**Cloud & Infra:** Azure · Linux · Windows Server · Active Directory · VMware / Hyper-V · Zabbix · Grafana
 
 ---
 
-# 🏆 Roadmap de Certificações
+### 📚 Agora
 
-| Status | Certificação |
-|---------|--------------|
-| 🟢 | AZ-900 |
-| 🟢 | AI-900 |
-| 🟢 | AI-102 |
-| 🟢 | AI-3016 |
-| 🟢 | AI-3025 |
-| 🟢 | DP-100 |
-| ⚪ | Azure AI Engineer Associate |
+- Pós Tech em Machine Learning Engineering (FIAP)
+- Trilha Microsoft Azure AI: treinamento do **AI-901** concluído · preparando **AI-103** (Azure AI Apps and Agents Developer Associate)
+- Agentes com LangGraph e MCP · MLOps
 
----
+<!-- Quando passar no exame, crie a seção "🎓 Certificações" com o badge do Credly linkado -->
 
-# 🚀 Projetos em Destaque
-
-Em breve este espaço será preenchido com projetos voltados para Inteligência Artificial e Machine Learning.
-
-### Projetos planejados
-
-🤖 AI Agents
-
-🧠 Chatbots com LLM
-
-📄 RAG Applications
-
-📈 Machine Learning
-
-👁 Computer Vision
-
-⚙ APIs Inteligentes
-
-☁ Azure AI
-
-📊 Dashboards Inteligentes
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcosGross&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGross&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MarcosGross&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosGross&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarcosGross&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🤝 Vamos conectar?
-
-<p>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:SEUEMAIL">
-
-<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-# 💭 Filosofia
-
-> **"Building intelligent systems that solve real-world problems."**
-
----
-
-<p align="center">
-
-🚀 Learn • 🤖 Build • 📈 Improve
-
-</p>
