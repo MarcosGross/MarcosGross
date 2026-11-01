@@ -8,7 +8,7 @@
 <sub>Background em Cloud & Infraestrutura</sub>
 
 Construo agentes de IA, APIs de Machine Learning e automações que rodam em produção — não só em notebook.
-Hoje atuo como Analista de Infraestrutura na **Ferroport (Porto do Açu)** e faço pós em **Machine Learning Engineering na FIAP**.
+Hoje atuo como Analista de Infraestrutura e IA na **Ferroport (Porto do Açu)** e faço pós em **Machine Learning Engineering na FIAP**.
 
 <p>
   <a href="https://www.linkedin.com/in/marcos-gross/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
